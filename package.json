@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/befinal/node-tenpay#readme",
   "dependencies": {
+    "flaverr": "^1.10.0",
     "urllib": "^2.33.0",
     "xml2js": "^0.4.19"
   },
